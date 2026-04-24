@@ -42,7 +42,7 @@ That's it. No `pip install`, no virtual environment, no Node.js.
 
 ```bash
 # Clone
-git clone https://github.com/your-username/usb-speed-test.git
+git clone https://github.com/Code-Project-one/USB-Speed-Test.git
 cd usb-speed-test
 
 # Run
